@@ -1,2 +1,2 @@
-# bootsrap
-starter template sing bootsrap framework
+# bootstrap
+starter template using bootstrap framework
